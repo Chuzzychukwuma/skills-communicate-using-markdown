@@ -14,3 +14,13 @@
 
 - [x] this task is complete
 - [ ] this task is not complete
+
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+
+```js
+var myvar = "Hello world";
+```
+
